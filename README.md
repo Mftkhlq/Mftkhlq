@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Vibe coder enthusiats ... 😍
-- 📫 How to [**My Account**](https://github.com/Mftkhlq) 😁🙌
+- 📫 Follow my account [**My Account**](https://github.com/Mftkhlq) 😁🙌
 
 
 ![Dance](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDkwanBocGdua2R0YmZqbGh0MGg5ZDk1d2xpdHhoZmwwdDh0NnB1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBIwm8rlA2Fy1CG5xa/giphy.gif ) 
