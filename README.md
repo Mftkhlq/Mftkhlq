@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hallo all, Welcome to my Github 👋
 
 <!--
 **Mftkhlq/Mftkhlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Vibe coder enthusiats ... 😍
+- 📫 How to [**My Account**](https://github.com/Mftkhlq) 😁🙌
+
+
+![Dance](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDkwanBocGdua2R0YmZqbGh0MGg5ZDk1d2xpdHhoZmwwdDh0NnB1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBIwm8rlA2Fy1CG5xa/giphy.gif ) 
+  
