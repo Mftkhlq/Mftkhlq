@@ -1,5 +1,6 @@
 # Hallo all, Welcome to my Github 👋
 
+
 <!--
 **Mftkhlq/Mftkhlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github banner](img/github-header-banner.png)
 
 - 🔭 Vibe coder enthusiats ... 😍
 - 📫 Follow my account [**My Account**](https://github.com/Mftkhlq) 😁🙌
