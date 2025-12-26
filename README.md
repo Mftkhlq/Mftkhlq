@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 Vibe coder enthusiats ... 😍
 - 📫 Follow my account [**My Account**](https://github.com/Mftkhlq) 😁🙌
 - 🥱 I'm boring man
-![https://www.instagram.com/usn_32?igsh=emdhOGQ5dnByeHdz](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ) 
+![https://www.instagram.com/usn_32](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ) 
 
 ##### My Ea Ay 😘
 ![my sikil](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![my sikil 2](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  ![sdas](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
