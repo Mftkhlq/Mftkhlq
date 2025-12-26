@@ -1,20 +1,5 @@
-# Hello all, Welcome to my Github 👋
+<!-- # Hello all, Welcome to my Github 👋
 
-
-<!--
-**Mftkhlq/Mftkhlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Github banner](img/github-header-banner.png)
 
@@ -48,4 +33,67 @@ Here are some ideas to get you started:
 > Useful information that users should know, even when skimming content.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Urgent info that needs immediate user attention to avoid problems. -->
+
+
+
+<h2 align="left"># Hello all, Welcome to my Github 👋<br><br>- 🔭 Vibe coder enthusiats ... 😍<br>- 📫 Follow my account ...😁🙌<br>- 🥱 Ngantuk Bang</h2>
+
+###
+
+<p align="left">My Stats (cupu bjiiir😞)</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mftkhlq&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<p align="left">My Bahasa</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+</div>
+
+###
+
+<p align="left">My Social Media</p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/usn_32" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20ig&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=My%20Dc&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=My%20Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=My%20Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNmdTEwZDN1b2twY2NtNmltMnkydWVxZjJiczhxOGFqbThkc2Y1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mftkhlq/Mftkhlq/output/snake.svg" alt="Snake animation" />
+
+###
