@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 
 ### ______________________________________________
 ### My social media
-### ______________________________________________
-
 ![https://www.instagram.com/usn_32](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ) 
 
+### ______________________________________________
 
   > [!NOTE]
 > Useful information that users should know, even when skimming content.
