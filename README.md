@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/usn_32](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ) 
 
 ### _____________________________________________________________________________________________________________________
-  > [!NOTE]
+
+
+
+
 > Useful information that users should know, even when skimming content.
 
 > [!WARNING]
