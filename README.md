@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Dance](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDkwanBocGdua2R0YmZqbGh0MGg5ZDk1d2xpdHhoZmwwdDh0NnB1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBIwm8rlA2Fy1CG5xa/giphy.gif ) 
 
-### ______________________________________________________________________________________________________________________________
+### ________________________________________________________________________________________________________________________
 ### My social media
 ![https://www.instagram.com/usn_32](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ) 
 
