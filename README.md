@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">My Stats (cupu bjiiir😞)</p>
+<p align="left">My Stats (Kok ga muncul😞)</p>
 
 ###
 
@@ -94,6 +94,11 @@
 
 <br clear="both">
 
+###
+
+<p align="rigt">- 🎮 Mini Game 🎮 </p>
+
+###
 <img src="https://raw.githubusercontent.com/Mftkhlq/Mftkhlq/output/snake.svg" alt="Snake animation" />
 
 ###
