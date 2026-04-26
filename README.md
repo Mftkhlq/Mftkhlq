@@ -37,7 +37,7 @@
 
 
 
-<h2 align="left"># Hello all, Welcome to my Github 👋<br><br>- 🔭 Vibe coder enthusiats ... 😍<br>- 📫 Follow my account ...😁🙌<br>- 🥱 Ngantuk Bang</h2>
+<h2 align="left"># Hello all, Welcome to my Github 👋<br><br>- 🔭 Vibe coder enthusiats ... 😍<br>- 📫 Follow my account ...😁🙌<br>- 🥱 Pen tidur</h2>
 
 ###
 
